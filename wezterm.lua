@@ -54,9 +54,9 @@ wezterm.plugin.require("https://github.com/saltkid/bagman").setup({
     },
     interval = 30 * 60,
     change_tab_colors = true,
-    -- experimental = {
-    --     contain_fix_wezterm_build = true,
-    -- },
+    experimental = {
+        contain_fix_wezterm_build = true,
+    },
 })
 -- }}}
 
